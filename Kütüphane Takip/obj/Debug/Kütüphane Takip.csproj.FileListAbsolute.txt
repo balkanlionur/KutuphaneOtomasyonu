@@ -1,0 +1,28 @@
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kütüphane Takip.exe.config
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kütüphane Takip.exe
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kütüphane Takip.pdb
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.csprojResolveAssemblyReference.cache
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.Properties.Resources.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.csproj.GenerateResource.Cache
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.exe
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.pdb
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.anasayfa.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.kitap_kayit.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.okuyucu_kayit.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.emanet.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.teslim.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kütüphane Takip.exe.config
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.exe
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.pdb
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kütüphane Takip.exe
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kütüphane Takip.pdb
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.csprojResolveAssemblyReference.cache
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.anasayfa.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.emanet.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.teslim.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.kitap_kayit.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.okuyucu_kayit.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane_Takip.Properties.Resources.resources
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\obj\Debug\Kütüphane Takip.csproj.GenerateResource.Cache
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kutuphane.mdf
+C:\Users\balkanlionur\Desktop\Kütüphane Takip\Kütüphane Takip\bin\Debug\Kutuphane_log.ldf

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kütüphane Takip", "Kütüphane Takip\Kütüphane Takip.csproj", "{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kütüphane Otomasyonu", "Kütüphane Otomasyonu\Kütüphane Otomasyonu.vdproj", "{03F3FCA0-03E1-43D8-86F9-739506CCDC6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{9E749E77-F6F4-4282-A2DA-ADBAB3CC4C2C}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{03F3FCA0-03E1-43D8-86F9-739506CCDC6D}.CD_ROM|Any CPU.ActiveCfg = Release
+		{03F3FCA0-03E1-43D8-86F9-739506CCDC6D}.Debug|Any CPU.ActiveCfg = Debug
+		{03F3FCA0-03E1-43D8-86F9-739506CCDC6D}.DVD-5|Any CPU.ActiveCfg = Debug
+		{03F3FCA0-03E1-43D8-86F9-739506CCDC6D}.Release|Any CPU.ActiveCfg = Release
+		{03F3FCA0-03E1-43D8-86F9-739506CCDC6D}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
